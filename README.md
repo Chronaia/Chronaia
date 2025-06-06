@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <p>Mes projets personnels : https://github.com/stars/Sae14/lists/projets-personnels</p>
-  <p>Mes tests techniques : https://github.com/stars/Sae14/lists/tests-techniques</p>
-  <p>Mes projets de formation : https://github.com/stars/Sae14/lists/projets-de-formation</p>
+  <p>Mes projets personnels : https://github.com/stars/Chronaia/lists/projets-personnels</p>
+  <p>Mes tests techniques : https://github.com/stars/Chronaia/lists/tests-techniques</p>
+  <p>Mes projets de formation : https://github.com/stars/Chronaia/lists/projets-de-formation</p>
 </div>
 
 ##
